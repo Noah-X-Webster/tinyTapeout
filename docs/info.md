@@ -13,8 +13,8 @@ Verilog code describing an 8-bit programmable binary counter with asynchronous r
 
 ## How to test
 
-
+Because this is a small project, Verilog code was tested with EDA playground and then modified to the TT specifications.
 
 ## External hardware
 
-N/A
+No specialized external hardware is required.
